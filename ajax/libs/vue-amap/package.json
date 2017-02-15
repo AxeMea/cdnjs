@@ -1,0 +1,19 @@
+{
+  "name": "vue-amap",
+  "version": "0.1.6",
+  "description": "A GaoDe Map Component Library for Vue.js.",
+  "filename": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ElemeFE/vue-amap.git"
+  },
+  "author": "ElemeFE",
+  "homepage": "http://elemefe.github.io/vue-amap",
+  "keywords": [
+    "eleme",
+    "vue",
+    "components"
+  ],
+  "license": "MIT",
+  "npmName": "vue-amap"
+}
