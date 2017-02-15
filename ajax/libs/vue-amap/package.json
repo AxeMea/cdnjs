@@ -12,7 +12,9 @@
   "keywords": [
     "eleme",
     "vue",
-    "components"
+    "components",
+    "amap",
+    "map"
   ],
   "license": "MIT",
   "npmName": "vue-amap"
